@@ -1,0 +1,8 @@
+to set up and run the app:
+
+1. Install Required Packages:
+All dependencies are listed in the file: requirements.txt
+open a terminal in the project folder and run: pip install -r requirements.txt
+
+2. Run the Application:
+After installing dependencies, start the app with: streamlit run app.py
